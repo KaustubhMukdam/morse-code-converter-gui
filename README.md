@@ -1,4 +1,4 @@
-# 💻 Project 1/10 – Text ↔ Morse Code Converter (GUI + Sound)
+# 💻 Project 1/20 – Text ↔ Morse Code Converter (GUI + Sound)
 
 This is the **first project** in my **100 Days of Code – Portfolio Series**.  
 Inspired by Day 82 of Dr. Angela Yu’s *“100 Days of Code: The Complete Python Pro Bootcamp”*, I upgraded the classic console-based Morse Code program into a **feature-rich GUI application**. 🚀
@@ -47,5 +47,5 @@ Watch the full demo video here:
 ➡️ https://drive.google.com/file/d/1KVg5Ellb-PtD21k3IzE3wZHIcnXVmimh/view?usp=drive_link
 
 📌 Next Steps
-This is just Project 1/10 of my Python Portfolio Series.
+This is just Project 1/20 of my Python Portfolio Series.
 Stay tuned for more exciting projects where I’ll continue to share my learning journey! 🚀
