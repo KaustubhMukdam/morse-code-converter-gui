@@ -29,7 +29,6 @@ Inspired by Day 82 of Dr. Angela Yu’s *“100 Days of Code: The Complete Pytho
 morse-code-converter-gui/
 │── morse_converter.py # Main GUI application
 │── demo.mp4 # Demo video
-│── requirements.txt # Dependencies info
 │── LICENSE # MIT License
 
 
